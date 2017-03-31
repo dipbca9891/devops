@@ -1,5 +1,5 @@
 <?php
 
-echo "test project";
+echo "test new project";
 
 ?>
